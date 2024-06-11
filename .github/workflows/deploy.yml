@@ -25,5 +25,5 @@ jobs:
           server: sftp://your_username@206.189.231.7
           username: ${{ secrets.SSH_USERNAME }}
           password: ${{ secrets.SSH_KEY }}
-          local-dir: .  # Indicates the root directory of the repository
+          local-dir: ./  # Indicates the root directory of the repository
           server-dir: /var/www/kokoplus.siteshowcase.top
