@@ -2,7 +2,7 @@ name: Deploy to Server
 
 on:
   push:
-    branches: [ main ]  # Change "main" to your branch name if different
+    branches: [ master ]  # Ship changes to this branch
 
 jobs:
   deploy:
@@ -22,7 +22,7 @@ jobs:
       - name: Deploy to server  # Connects and copies files
         uses: sshuttle/ssh-deploy@v4
         with:
-          host: '206.180.231.7'  # Replace with your server IP
+          host: '206.189.231.7'  # Replace with your server IP
           username: 'manifest'  # Replace with your server username
           key: ${{ secrets.SSH_KEY }}  # Reference the uploaded SSH key
           deployTo: '/var/www/kokoplus.siteshowcase.top'  # Deployment directory
