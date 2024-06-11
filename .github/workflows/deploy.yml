@@ -26,4 +26,4 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           password: ${{ secrets.SSH_KEY }}
           local-dir: ./  # Indicates the root directory of the repository
-          server-dir: /var/www/kokoplus.siteshowcase.top
+          server-dir: /var/www/kokoplus.siteshowcase.top/
