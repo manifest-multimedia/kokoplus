@@ -651,7 +651,9 @@
 
 .news_slick_item_thumb img {
   width: 100%;
-  height: 100%;
+  height: 180px;
+  /* Cover */
+  object-fit: cover;
   transition: all linear 0.5s;
 }
 .news_slick_item_thumb img:nth-child(2) {
