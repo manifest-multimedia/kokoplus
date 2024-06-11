@@ -22,7 +22,7 @@ jobs:
       - name: Deploy to server
         uses: SamKirkland/FTP-Deploy-Action@4.3.0
         with:
-          server: sftp://manifest@206.189.231.7
+          server: 206.189.231.7  # Only the IP address
           username: ${{ secrets.SSH_USERNAME }}
           password: ${{ secrets.SSH_KEY }}
           local-dir: ./  # Indicates the root directory of the repository
