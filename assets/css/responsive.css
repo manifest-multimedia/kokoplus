@@ -1,0 +1,619 @@
+@media (max-width: 1536px) {
+  .container {
+    width: 100%;
+  }
+  .news_slick {
+    margin-right: 0 !important;
+  }
+  .news {
+    margin-left: 0;
+  }
+  .backt_to_top {
+    bottom: 60px;
+    right: 10px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .banner_thumb_main {
+    position: relative;
+    height: 460px;
+    width: 531px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .news {
+    margin-left: 0;
+  }
+  .news_slick {
+    margin-right: -0 !important;
+  }
+  .team_item_thumb {
+    height: 100%;
+  }
+
+  .footer .main_btn_big {
+    padding: 19px 40px;
+  }
+  .about_two .misson_thumb {
+    height: 100%;
+  }
+  .res_mt {
+    margin-top: 0;
+  }
+  .all_logo_box {
+    height: 100%;
+  }
+
+  .journals_item_thumb {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 22px;
+  }
+}
+
+@media (max-width: 992px) {
+  .header {
+    display: none;
+  }
+  .mobile-header {
+    display: block;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .banner_thumb_main {
+    position: relative;
+    height: 460px;
+    width: 531px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .banner_thumb_main img {
+    width: 100%;
+    height: 100%;
+  }
+  .banner_thumb_txt {
+    padding: 0 212px 0 175px;
+  }
+  .banner {
+    padding: 150px 0 63px 0;
+  }
+
+  .misson_thumb {
+    height: 100%;
+    width: 100%;
+  }
+
+  .about_map_thumb {
+    height: fit-content;
+  }
+
+  .origin_bg {
+    padding: 90px 50px;
+  }
+
+  .news {
+    margin-left: 0;
+  }
+
+  .news_slick {
+    margin-right: -0 !important;
+  }
+
+  .team_item_thumb {
+    height: 100%;
+  }
+  .footer_social_icon {
+    justify-content: start;
+  }
+
+  .footer_ml {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+  .footer_mll {
+    margin-top: 50px;
+  }
+  .footer_mlll {
+    margin-top: 50px;
+  }
+  .copy_write {
+    margin-top: 80px;
+  }
+  .philosophy_head {
+    padding-top: 70px;
+  }
+  .about_two .misson_thumb {
+    height: 100%;
+  }
+  .res_mt {
+    margin-top: 0px;
+  }
+  .chart_thumb {
+    height: 100%;
+  }
+  .all_logo_box {
+    height: 100%;
+  }
+  .journals_item_thumb {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 22px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .banner_thumb_main {
+    position: relative;
+    height: 460px;
+    width: 531px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .banner_thumb_main img {
+    width: 100%;
+    height: 100%;
+  }
+  .banner {
+    padding: 70px 0 63px 0;
+  }
+
+  .banner_pos1,
+  .banner_pos2,
+  .banner_pos3,
+  .banner_pos4,
+  .banner_pos5,
+  .banner_pos6 {
+    display: none;
+  }
+
+  .food-5 {
+    top: -93px;
+  }
+
+  .food-11 {
+    top: 460px;
+    left: 131px;
+  }
+  .food-4 {
+    top: 288px;
+    left: -16px;
+  }
+  .video_arrow_thumb_main {
+    display: none;
+  }
+
+  .misson_thumb {
+    height: 350px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .news {
+    padding: 70px 0;
+    margin-left: 0;
+  }
+
+  .news_slick {
+    margin-right: -0 !important;
+    margin-top: 30px;
+  }
+
+  .video {
+    padding: 70px 0;
+  }
+  .video_thumb_slick_thumb {
+    height: 500px;
+  }
+
+  .about_map_thumb {
+    height: fit-content;
+    margin-top: 35px;
+  }
+  .origin_bg {
+    padding: 70px 0px;
+  }
+
+  .origin_thumb {
+    height: 100%;
+    margin-top: 30px;
+  }
+  .origin_bg.two .origin_thumb {
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  .team_item_thumb {
+    height: 100%;
+  }
+  .footer_ml {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .footer_mll {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+  .footer_mlll {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .copy_write {
+    margin-top: 70px;
+  }
+  .about_two {
+    border-radius: 40px;
+    margin-top: 70px;
+  }
+  .info_nav {
+    justify-content: start;
+    gap: 40px;
+  }
+  .philosophy_head {
+    padding-top: 50px;
+    margin-bottom: 20px;
+  }
+  .philosophy_head .title {
+    margin-top: 20px;
+  }
+
+  .directors {
+    padding: 60px 0;
+  }
+  .directors_thumb {
+    height: 100%;
+    margin-top: 20px;
+  }
+  .team_two .team_head {
+    padding-top: 70px;
+  }
+  .team_head .title {
+    margin-top: 20px;
+  }
+
+  .organitzatonal_head .title {
+    margin-top: 15px;
+  }
+  .chart_thumb {
+    height: 100%;
+  }
+  .foundation_map iframe {
+    height: 100%;
+  }
+  .foundation {
+    padding: 60px 0;
+  }
+  .all_logo {
+    padding: 80px 0 60px 0;
+  }
+
+  .journals {
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .banner_thumb_main {
+    position: relative;
+    height: 328px;
+    width: 350px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .banner_thumb_main img {
+    height: 100%;
+    width: 100%;
+  }
+
+  .banner_thumb_txt h2 {
+    font-size: 28px;
+    line-height: 34.04px;
+  }
+  .title {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .banner_position_re,
+  .banner_pos_thumb,
+  .video_arrow_thumb_main {
+    display: none;
+  }
+
+  .banner_thumb_txt {
+    padding: 0 0 0 0;
+  }
+  .banner {
+    padding: 0 0 20px 0;
+  }
+
+  .misson_visson,
+  .about {
+    padding: 60px 0;
+    border-radius: 20px;
+  }
+
+  .misson_visson_txt_item .sub_title,
+  .origin_head .sub_title {
+    margin-top: 15px;
+  }
+
+  .misson_thumb {
+    height: fit-content;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 20px;
+  }
+
+  .arrow_left,
+  .arrow_right,
+  .news_slick_left,
+  .news_slick_right,
+  .backt_to_top,
+  .pagination_left,
+  .pagination_right,
+  .main_btn {
+    height: 35px;
+    width: 35px;
+  }
+
+  .backt_to_top {
+    line-height: 35px;
+  }
+
+  .video {
+    padding: 60px 0;
+  }
+
+  .video_thumb_slick_thumb {
+    height: 165px;
+  }
+  .video_thumb_slick_thumb .video_icon span svg {
+    height: 35px;
+  }
+
+  .about_head h6 {
+    padding: 0 0;
+  }
+
+  .about_head .discptrion {
+    padding: 0 0;
+  }
+
+  .about_map_thumb {
+    height: fit-content;
+    margin-top: 30px;
+    border-radius: 10px;
+  }
+
+  .origin_bg {
+    padding: 60px 0px;
+    border-radius: 20px;
+  }
+
+  .origin_thumb {
+    height: fit-content;
+    margin-top: 30px;
+    border-radius: 20px;
+  }
+
+  .news_slick_item_thumb {
+    height: 100%;
+  }
+
+  .origin_bg.two .origin_thumb {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+
+  .news_head .title {
+    margin-top: 15px;
+  }
+
+  .video_slick_btn,
+  .news_slick_btn {
+    margin-top: 25px;
+  }
+
+  .news {
+    padding: 60px 0;
+    margin-left: 0;
+  }
+  .news_slick {
+    margin-right: -0 !important;
+    margin-top: 30px;
+  }
+
+  .team {
+    padding: 60px 0;
+    background-color: var(--color-white);
+    border-radius: 20px;
+  }
+
+  .team_head .title {
+    margin-top: 15px;
+  }
+
+  .team_mt {
+    margin-top: 20px;
+  }
+
+  .team_item_thumb {
+    height: 100%;
+  }
+
+  .contact {
+    padding: 60px 0 100px 0;
+  }
+  .contact_bg {
+    padding: 60px 0;
+    border-radius: 40px;
+  }
+
+  .contact .row {
+    --bs-gutter-x: 0;
+  }
+
+  .contact_head .title {
+    margin-top: 15px;
+  }
+  .contact_head .discptrion {
+    margin-top: 10px;
+  }
+  .contact_btn {
+    margin-top: 20px;
+  }
+
+  .footer_item {
+    margin-top: 40px;
+  }
+
+  .footer_ml,
+  .footer_mll,
+  .footer_mlll {
+    margin-left: 0;
+  }
+  .copy_write_txt.two a {
+    justify-content: start;
+    margin-top: 10px;
+  }
+
+  .copy_write {
+    margin-top: 40px;
+  }
+
+  .main_btn_big {
+    padding: 19px 40px;
+  }
+
+  .about_two {
+    border-radius: 40px;
+    margin-top: 44px;
+  }
+  .about_two_head .title {
+    margin-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .info_nav {
+    justify-content: start;
+    gap: 20px;
+  }
+  .philosophy_head {
+    padding-top: 50px;
+  }
+  .philosophy_head .title {
+    margin-top: 15px;
+  }
+  .about_two .misson_thumb {
+    margin-top: 0;
+    height: 100%;
+  }
+
+  .values_main_item .discptrion {
+    padding-right: 0;
+  }
+  .misson_visson_txt_item h6 {
+    padding-right: 0;
+    margin-top: 15px;
+  }
+  .directors {
+    padding: 60px 0;
+  }
+
+  .directors_head h6 {
+    padding-right: 0;
+  }
+  .directors_thumb {
+    height: 100%;
+    margin-top: 30px;
+  }
+
+  .team_two .team_head {
+    padding-top: 30px;
+  }
+  .border_botom {
+    padding-bottom: 30px;
+  }
+  .organitzatonal {
+    border-radius: 20px;
+    margin-top: 60px;
+  }
+
+  .foundation_map {
+    border-radius: 20px;
+  }
+  .organitzatonal_head .title {
+    margin-top: 15px;
+  }
+  .chart_thumb {
+    height: 100%;
+    margin-top: 25px;
+    border-radius: 20px;
+  }
+  .foundation {
+    padding: 60px 0;
+  }
+  .foundation_head .title {
+    margin-top: 15px;
+  }
+
+  .foundation_overview_table {
+    margin-top: 20px;
+  }
+  .foundation_map iframe {
+    height: 100%;
+    width: 100%;
+  }
+  .history {
+    border-radius: 20px;
+  }
+  .history_head .title {
+    margin-top: 15px;
+  }
+
+  .g-4,
+  .gx-4 {
+    --bs-gutter-x: 20px;
+  }
+  .all_logo_thumb_box {
+    flex-wrap: nowrap;
+    justify-content: start;
+    gap: 20px;
+    flex-direction: column;
+  }
+  .all_logo_box {
+    height: fit-content;
+  }
+  .all_logo {
+    padding: 60px 0 0 0;
+  }
+
+  .journals {
+    padding: 60px 0;
+    margin-top: 40px;
+  }
+  .journals .nav {
+    margin-top: 35px;
+  }
+  .journals_item_thumb {
+    height: 100%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+}
+
+@media (max-width: 575.96px) {
+  .foundation_overview_table li {
+    gap: 0px;
+    margin-bottom: 0;
+    flex-direction: column;
+  }
+}
