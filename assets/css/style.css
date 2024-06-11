@@ -471,7 +471,7 @@
   margin-top: 25px;
   padding-right: 85px;
 }
-.misson_visson_txt_item .discptrion {
+.misson_visson_txt_item .description {
   margin-top: 18px;
 }
 
@@ -551,7 +551,7 @@
   padding: 0 100px;
   margin-bottom: 18px;
 }
-.about_head .discptrion {
+.about_head .description {
   padding: 0 130px;
 }
 
@@ -595,7 +595,7 @@
 .origin_head h6 {
   margin-top: 25px;
 }
-.origin_head .discptrion {
+.origin_head .description {
   margin-top: 18px;
 }
 .origin_head .main_btn {
@@ -746,7 +746,7 @@
   color: var(--color-dark);
 }
 
-.team_inner .discptrion {
+.team_inner .description {
   font-size: 10px;
   line-height: 13px;
   font-weight: 400;
@@ -802,7 +802,7 @@
 .contact_head .title {
   margin-top: 32px;
 }
-.contact_head .discptrion {
+.contact_head .description {
   margin-top: 32px;
 }
 
@@ -1123,7 +1123,7 @@
   border-radius: 50%;
 }
 
-.values_main_item .discptrion {
+.values_main_item .description {
   flex: 1;
   margin-top: 0;
   padding-right: 34px;
@@ -1145,7 +1145,7 @@
 .directors_head h6 {
   padding-right: 306px;
 }
-.directors_head .discptrion {
+.directors_head .description {
   margin-top: 18px;
 }
 
@@ -1169,7 +1169,7 @@
   border-radius: 22px;
 }
 
-.directors_item_txt .discptrion {
+.directors_item_txt .description {
   padding-top: 6px;
 }
 
@@ -1290,7 +1290,7 @@
   transform: translate(-50%, -50%);
 }
 
-.history_item .discptrion {
+.history_item .description {
   margin-top: 2px;
 }
 

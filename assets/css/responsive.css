@@ -382,7 +382,7 @@
     padding: 0 0;
   }
 
-  .about_head .discptrion {
+  .about_head .description {
     padding: 0 0;
   }
 
@@ -463,7 +463,7 @@
   .contact_head .title {
     margin-top: 15px;
   }
-  .contact_head .discptrion {
+  .contact_head .description {
     margin-top: 10px;
   }
   .contact_btn {
@@ -516,7 +516,7 @@
     height: 100%;
   }
 
-  .values_main_item .discptrion {
+  .values_main_item .description {
     padding-right: 0;
   }
   .misson_visson_txt_item h6 {
